@@ -1,2 +1,2 @@
 # hello-world
-initializing first repo
+Editing the first repo, 
